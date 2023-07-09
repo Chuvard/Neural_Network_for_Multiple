@@ -27,7 +27,7 @@ To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Neural_Networks_for_Multiple" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all required libraries and data frames from the Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Sections "Importing packages" and "Dataset".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Neural Network Machine Learning model execution (for multiple classification).
 
