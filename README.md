@@ -4,7 +4,7 @@
 
 
 ### Project Description (Problem Statement): 
-- In this exercise, we will use a neural network to recognize between ten handwritten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This is a multi classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.
+- In this exercise, we will use a neural network to recognize between ten handwritten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This is a multi-classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.
 
 - This exercise will show how the methods can be used for this classification task.
 
