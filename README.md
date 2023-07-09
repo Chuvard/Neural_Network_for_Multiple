@@ -3,8 +3,8 @@
 ### Project's Title: Neural_Networks_for_Multiple
 
 
-### Project Description (Problem Satement): 
-- In this exercise, we will use a neural network to recognize between ten handwritten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This is a multicassification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.
+### Project Description (Problem Statement): 
+- In this exercise, we will use a neural network to recognize between ten handwritten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This is a multi classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.
 
 - This exercise will show how the methods can be used for this classification task.
 
@@ -23,11 +23,11 @@
 
 ### How to Install and Run the Project:
 
-For successful running this project you have to do the following steps:
+To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Neural_Networks_for_Multiple" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all reqired liabraries and dataframes from Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Section "Importing modules".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Neural Network Machine Learning model execution (for multiple classification).
 
@@ -36,4 +36,4 @@ For successful running this project you have to do the following steps:
 
 ### Support:
 
-In case of any bags or additional questions concering incorrect code execution please contact author via Discord (username: VladCh)
+In case of any bags or additional questions concerning incorrect code execution please contact the author via Discord (username: VladCh)
